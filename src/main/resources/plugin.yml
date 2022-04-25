@@ -1,0 +1,7 @@
+name: ExamplePlugin
+version: '${version}'
+main: net.splodgebox.exampleplugin.ExamplePlugin
+api-version: 1.13
+commands:
+  item:
+    usage: give item
